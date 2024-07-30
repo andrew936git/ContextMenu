@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="edit_text">Введите текст</string>
+    <string name="random_button_text">Случайное число</string>
+    <string name="color_quality">Цветовое качество</string>
+    <string name="exit">Выход из приложения</string>
+</resources>
